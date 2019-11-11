@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     var kennyArray = [UIImageView]()
     var hideTimer = Timer()
     var highScore = 0
-    var name = ""
 
     
     //Views
